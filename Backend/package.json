@@ -1,0 +1,16 @@
+{
+  "name": "marvel-con",
+  "version": "1.0.0",
+  "description": "consumo de api, aplicacao angular",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3001"
+  },
+  "keywords": [],
+  "author": "Rei do Nada",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "devDependencies": {}
+}
